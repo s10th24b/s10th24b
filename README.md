@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![allen246's GitHub stats](https://github-readme-stats.vercel.app/api?username=allen246)](https://github.com/allen246/github-readme-stats)
+[![s10th24b's GitHub stats](https://github-readme-stats.vercel.app/api?username=s10th24b)](https://github.com/s10th24b/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=allen246)](https://solved.ac/allen246/)
 

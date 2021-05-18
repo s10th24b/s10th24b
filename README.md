@@ -1,8 +1,8 @@
 #### :computer: Programming languages and tools: 
 <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/android/android-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 </p>
 
 

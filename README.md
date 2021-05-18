@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-## BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=allen246)](https://solved.ac/allen246/)
 <!--
 **s10th24b/s10th24b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

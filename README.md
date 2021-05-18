@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+[![allen246's GitHub stats](https://github-readme-stats.vercel.app/api?username=allen246)](https://github.com/allen246/github-readme-stats)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=allen246)](https://solved.ac/allen246/)
+
 <!--
 **s10th24b/s10th24b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -8,7 +8,7 @@
 
 [![s10th24b's GitHub stats](https://github-readme-stats.vercel.app/api?username=s10th24b)](https://github.com/s10th24b/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s10th24b&exclude_repo=github-readme-stats,https://github.com/s10th24b/DNN_study)](https://github.com/s10th24b/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s10th24b&hide=jupyter%20notebook)](https://github.com/s10th24b/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=allen246)](https://solved.ac/allen246/)
 
